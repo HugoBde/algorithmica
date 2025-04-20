@@ -1,0 +1,4 @@
+- [ ] automatically convert webp images to png. update related links to point to new png file
+- [ ] figure out bad math delimiter latex error
+- [ ] in epub release, figure out why all the images are prepended to the book
+- [ ] in epub release, figure out how to control page breaks and why there are gigantic gaps 

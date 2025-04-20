@@ -1,4 +1,8 @@
-# Algorithmica v3
+# Foreword
+
+This is a fork of the Algorithmica book project, which I'm currently trying to turn to a PDF. My focus right now is on the English version of the book. Project seems to be abandoned, I guess I could try to finish the drafts and maybe work on more topics (including those considered by the original author) to complete the book. idk. Anything to say about this fork, message me on twitter
+
+# Algorithmica v3 
 
 Algorithmica is an open-access web book dedicated to the art and science of computing.
 
