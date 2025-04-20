@@ -1,6 +1,6 @@
 ---
 title: Instruction Tables
-weight: 3
+weight: 4
 ---
 
 <!-- This poses some additional challenges in coordinating how to execute the instructions — and also in which order. -->

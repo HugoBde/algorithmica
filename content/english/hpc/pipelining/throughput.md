@@ -1,6 +1,6 @@
 ---
 title: Throughput Computing
-weight: 4
+weight: 5
 ---
 
 Optimizing for *latency* is usually quite different from optimizing for *throughput*:
